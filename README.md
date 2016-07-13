@@ -2,9 +2,16 @@
 QnA Maker client for Node.js
 
 
-Example:
+###Getting Started:
 
 ```
+npm install --save git+https://git@github.com/CatalystCode/qnamaker-client.git
+```
+
+
+###Example:
+
+```javascript
 var QnAClient = require('qnamaker-client').Client;
 
 var qnaClient = new QnAClient({
