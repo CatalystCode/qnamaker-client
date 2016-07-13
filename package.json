@@ -1,0 +1,26 @@
+{
+  "name": "qnamaker-client",
+  "version": "0.0.1",
+  "description": "QnA Maker client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CatalystCode/node-qnamaker-client.git"
+  },
+  "keywords": [
+    "QnA"
+  ],
+  "author": "Ami Turgman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CatalystCode/node-qnamaker-client/issues"
+  },
+  "homepage": "https://github.com/CatalystCode/node-qnamaker-client#readme",
+  "dependencies": {
+    "q": "^1.4.1",
+    "request": "^2.73.0"
+  }
+}
