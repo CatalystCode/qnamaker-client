@@ -29,3 +29,7 @@ qnaClient.get({ question: question }).then(function(result) {
     return getQuestion();
 });
 ```
+
+
+# License
+[MIT](LICENSE)
